@@ -4,13 +4,10 @@ Developed using Django REST framework.
 
 Basic Functionalities:
 
-Authentication (via JWT)
-Aircraft Management:
+- Authentication (via JWT)
 
-Create, delete, and modify aircraft information
-Airline Management:
+- Aircraft Management: Create, delete, and modify aircraft information
 
-Create, delete, and modify airline details
-Postman Collection:
+- Airline Management: Create, delete, and modify airline details
 
-Included for easy testing and integration
+- Postman Collection: Included for easy testing and integration
