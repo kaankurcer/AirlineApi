@@ -1,6 +1,16 @@
-A REST Api for managing airlines and aircrafts. Developed usign Django REST. The Postman file is included.
+REST API for Managing Airlines and Aircrafts
 
-Basic functionalities:
--Authentication(via JWT)
--Aircraft creation/deletion/modification
--Airline creation/deletion/modification
+Developed using Django REST framework.
+
+Basic Functionalities:
+
+Authentication (via JWT)
+Aircraft Management:
+
+Create, delete, and modify aircraft information
+Airline Management:
+
+Create, delete, and modify airline details
+Postman Collection:
+
+Included for easy testing and integration
